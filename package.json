@@ -1,0 +1,18 @@
+{
+  "name": "front-quizzy-sdk",
+  "version": "1.0.0",
+  "description": "Software development kit for quizzy frontend app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chehivskiiandriy/front-quizzy-sdk.git"
+  },
+  "author": "andriy12071997@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chehivskiiandriy/front-quizzy-sdk/issues"
+  },
+  "homepage": "https://github.com/chehivskiiandriy/front-quizzy-sdk#readme"
+}
